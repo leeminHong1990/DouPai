@@ -1,0 +1,1865 @@
+{
+  "ID": "7aeb80d9-d973-49d3-b35d-8e6820cf7d4d",
+  "Version": "3.10.0.0",
+  "Name": "GameHallUI",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 20,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "GameHallUI/bg.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 422,
+            "Scale9OriginY": 237,
+            "Scale9Width": 436,
+            "Scale9Height": 246,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 21,
+            "ActionTag": 1807958223,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "bg_img",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "GameHallUI/title.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 152,
+            "Scale9OriginY": 44,
+            "Scale9Width": 158,
+            "Scale9Height": 48,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 647.936,
+              "Y": 720.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5062,
+              "Y": 1.0
+            },
+            "PreSize": {
+              "X": 0.3609,
+              "Y": 0.1889
+            },
+            "LeftMargin": 416.936,
+            "RightMargin": 401.064,
+            "BottomMargin": 584.0,
+            "Tag": 53,
+            "ActionTag": 1041503337,
+            "Size": {
+              "X": 462.0,
+              "Y": 136.0
+            },
+            "Name": "title_img",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 104,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "GameHallUI/create_club_btn.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 300,
+                "Scale9Height": 374,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 268.35,
+                  "Y": 340.992
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.2096,
+                  "Y": 0.4736
+                },
+                "PreSize": {
+                  "X": 0.2578,
+                  "Y": 0.55
+                },
+                "LeftMargin": 103.35,
+                "RightMargin": 846.65,
+                "TopMargin": 181.008,
+                "BottomMargin": 142.992,
+                "Tag": 1037,
+                "ActionTag": -2076710546,
+                "Size": {
+                  "X": 330.0,
+                  "Y": 396.0
+                },
+                "Name": "create_club_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "GameHallUI/join_club_btn.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 230,
+                "Scale9Height": 361,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 544.13,
+                  "Y": 336.6
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.4251,
+                  "Y": 0.4675
+                },
+                "PreSize": {
+                  "X": 0.2031,
+                  "Y": 0.5319
+                },
+                "LeftMargin": 414.13,
+                "RightMargin": 605.87,
+                "TopMargin": 191.9,
+                "BottomMargin": 145.1,
+                "Tag": 1039,
+                "ActionTag": -1100690596,
+                "Size": {
+                  "X": 260.0,
+                  "Y": 383.0
+                },
+                "Name": "join_club_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "GameHallUI/create_room_btn.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 230,
+                "Scale9Height": 361,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 789.0699,
+                  "Y": 337.392
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.6165,
+                  "Y": 0.4686
+                },
+                "PreSize": {
+                  "X": 0.2031,
+                  "Y": 0.5319
+                },
+                "LeftMargin": 659.0699,
+                "RightMargin": 360.9301,
+                "TopMargin": 191.108,
+                "BottomMargin": 145.892,
+                "Tag": 1038,
+                "ActionTag": 2141699513,
+                "Size": {
+                  "X": 260.0,
+                  "Y": 383.0
+                },
+                "Name": "create_room_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "GameHallUI/join_room_btn.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 230,
+                "Scale9Height": 361,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1033.856,
+                  "Y": 338.4
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.8077,
+                  "Y": 0.47
+                },
+                "PreSize": {
+                  "X": 0.2031,
+                  "Y": 0.5319
+                },
+                "LeftMargin": 903.856,
+                "RightMargin": 116.144,
+                "TopMargin": 190.1,
+                "BottomMargin": 146.9,
+                "Tag": 1040,
+                "ActionTag": 2007461991,
+                "Size": {
+                  "X": 260.0,
+                  "Y": 383.0
+                },
+                "Name": "join_room_btn",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": 1335620075,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "game_panel",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 720.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 1.0
+            },
+            "PreSize": {
+              "X": 0.5,
+              "Y": 0.1667
+            },
+            "HorizontalEdge": "LeftEdge",
+            "RightMargin": 640.0,
+            "BottomMargin": 600.0,
+            "Tag": 29,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "GameHallUI/info_bg.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 102,
+                "Scale9OriginY": 38,
+                "Scale9Width": 214,
+                "Scale9Height": 90,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 3.008,
+                  "Y": 68.4
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.0047,
+                  "Y": 0.57
+                },
+                "PreSize": {
+                  "X": 0.6531,
+                  "Y": 1.3833
+                },
+                "LeftMargin": 3.008,
+                "RightMargin": 218.992,
+                "TopMargin": -31.4,
+                "BottomMargin": -14.6,
+                "Tag": 92,
+                "ActionTag": -1497131685,
+                "Size": {
+                  "X": 418.0,
+                  "Y": 166.0
+                },
+                "Name": "bg_img",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "GameHallUI/portrait_sprite.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 64.0,
+                  "Y": 54.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1,
+                  "Y": 0.45
+                },
+                "PreSize": {
+                  "X": 0.1562,
+                  "Y": 0.8333
+                },
+                "LeftMargin": 14.0,
+                "RightMargin": 526.0,
+                "TopMargin": 16.0,
+                "BottomMargin": 4.0,
+                "Tag": 96,
+                "ActionTag": -1053893127,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 100.0
+                },
+                "Name": "portrait_sprite",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "GameHallUI/head_frame.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 39,
+                "Scale9OriginY": 38,
+                "Scale9Width": 54,
+                "Scale9Height": 52,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 53.928
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.4494
+                },
+                "PreSize": {
+                  "X": 0.2062,
+                  "Y": 1.0667
+                },
+                "RightMargin": 508.0,
+                "TopMargin": 2.072,
+                "BottomMargin": -10.072,
+                "Tag": 93,
+                "ActionTag": -389550321,
+                "Size": {
+                  "X": 132.0,
+                  "Y": 128.0
+                },
+                "Name": "frame_img",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 25,
+                "LabelText": "这是我的昵称哦呵呵",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "font/zhunyuan.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 240.0,
+                  "Y": 84.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 161,
+                  "G": 77,
+                  "B": 9
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.375,
+                  "Y": 0.7
+                },
+                "PreSize": {
+                  "X": 0.3125,
+                  "Y": 0.225
+                },
+                "LeftMargin": 140.0,
+                "RightMargin": 300.0,
+                "TopMargin": 22.5,
+                "BottomMargin": 70.5,
+                "Tag": 94,
+                "ActionTag": 1530386549,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 27.0
+                },
+                "Name": "name_label",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 24,
+                "LabelText": "ID:1234567",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "font/zhunyuan.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 240.0,
+                  "Y": 56.4
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 204,
+                  "G": 151,
+                  "B": 74
+                },
+                "IconVisible": false,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.375,
+                  "Y": 0.47
+                },
+                "PreSize": {
+                  "X": 0.3125,
+                  "Y": 0.225
+                },
+                "LeftMargin": 140.0,
+                "RightMargin": 300.0,
+                "TopMargin": 50.1,
+                "BottomMargin": 42.9,
+                "Tag": 33,
+                "ActionTag": -1824957154,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 27.0
+                },
+                "Name": "id_label",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "GameHallUI/diamond_bg.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 45,
+                "Scale9OriginY": 13,
+                "Scale9Width": 62,
+                "Scale9Height": 16,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 154.1967,
+                  "Y": 21.66
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.2409,
+                  "Y": 0.1805
+                },
+                "PreSize": {
+                  "X": 0.2375,
+                  "Y": 0.35
+                },
+                "LeftMargin": 154.1967,
+                "RightMargin": 333.8033,
+                "TopMargin": 77.34,
+                "BottomMargin": 0.66,
+                "Tag": 688,
+                "ActionTag": 1416992865,
+                "Size": {
+                  "X": 152.0,
+                  "Y": 42.0
+                },
+                "Name": "card_bg_img",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "GameHallUI/card.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 13,
+                "Scale9OriginY": 14,
+                "Scale9Width": 40,
+                "Scale9Height": 16,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 114.1967,
+                  "Y": 21.66
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.1784,
+                  "Y": 0.1805
+                },
+                "PreSize": {
+                  "X": 0.1031,
+                  "Y": 0.3667
+                },
+                "LeftMargin": 114.1967,
+                "RightMargin": 459.8033,
+                "TopMargin": 76.34,
+                "BottomMargin": -0.34,
+                "Tag": 689,
+                "ActionTag": -175008712,
+                "Size": {
+                  "X": 66.0,
+                  "Y": 44.0
+                },
+                "Name": "card_img",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 28,
+                "LabelText": "999",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "font/zhunyuan.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 224.1964,
+                  "Y": 21.66
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 246,
+                  "G": 217,
+                  "B": 110
+                },
+                "IconVisible": false,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.3503,
+                  "Y": 0.1805
+                },
+                "PreSize": {
+                  "X": 0.1203,
+                  "Y": 0.225
+                },
+                "LeftMargin": 185.6964,
+                "RightMargin": 377.3036,
+                "TopMargin": 84.84,
+                "BottomMargin": 8.16,
+                "Tag": 690,
+                "ActionTag": -467040186,
+                "Size": {
+                  "X": 77.0,
+                  "Y": 27.0
+                },
+                "Name": "card_label",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "GameHallUI/add_btn.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 30,
+                "Scale9Height": 42,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 271.2,
+                  "Y": 17.664
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.4238,
+                  "Y": 0.1472
+                },
+                "PreSize": {
+                  "X": 0.0938,
+                  "Y": 0.5333
+                },
+                "LeftMargin": 271.2,
+                "RightMargin": 308.8,
+                "TopMargin": 70.336,
+                "BottomMargin": -14.336,
+                "Tag": 100,
+                "ActionTag": 173033641,
+                "Size": {
+                  "X": 60.0,
+                  "Y": 64.0
+                },
+                "Name": "buy_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 30,
+                "ButtonText": "",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "font/zhunyuan.ttf",
+                  "Plist": ""
+                },
+                "TextColor": {
+                  "R": 77,
+                  "G": 77,
+                  "B": 77
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "GameHallUI/authenticate_btn.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 42,
+                "Scale9Height": 14,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 402.432,
+                  "Y": 177.6
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.6288,
+                  "Y": 1.48
+                },
+                "PreSize": {
+                  "X": 0.1125,
+                  "Y": 0.3
+                },
+                "LeftMargin": 366.432,
+                "RightMargin": 201.568,
+                "TopMargin": -75.6,
+                "BottomMargin": 159.6,
+                "Tag": 5203,
+                "ActionTag": 1472163376,
+                "Size": {
+                  "X": 72.0,
+                  "Y": 36.0
+                },
+                "VisibleForFrame": false,
+                "Name": "authenticate_btn",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": 276446684,
+            "Size": {
+              "X": 640.0,
+              "Y": 120.0
+            },
+            "Name": "character_panel",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "PreSize": {
+              "X": 0.2734,
+              "Y": 0.1736
+            },
+            "LeftMargin": 930.0,
+            "BottomMargin": 595.0,
+            "Tag": 180,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "GameHallUI/freeCard_btn.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 82,
+                "Scale9Height": 110,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 164.5,
+                  "Y": 112.5
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.47,
+                  "Y": 0.9
+                },
+                "PreSize": {
+                  "X": 0.32,
+                  "Y": 1.056
+                },
+                "LeftMargin": 108.5,
+                "RightMargin": 129.5,
+                "TopMargin": 12.5,
+                "BottomMargin": -19.5,
+                "Tag": 184,
+                "ActionTag": -1420594044,
+                "Size": {
+                  "X": 112.0,
+                  "Y": 132.0
+                },
+                "Name": "free_card_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "GameHallUI/code_btn.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 82,
+                "Scale9Height": 110,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 116.1125
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.9289
+                },
+                "PreSize": {
+                  "X": 0.32,
+                  "Y": 1.056
+                },
+                "RightMargin": 238.0,
+                "TopMargin": 8.8875,
+                "BottomMargin": -15.8875,
+                "Tag": 183,
+                "ActionTag": 485586361,
+                "Size": {
+                  "X": 112.0,
+                  "Y": 132.0
+                },
+                "Name": "code_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "GameHallUI/public_btn.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 82,
+                "Scale9Height": 110,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 322.0,
+                  "Y": 113.75
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.92,
+                  "Y": 0.91
+                },
+                "PreSize": {
+                  "X": 0.32,
+                  "Y": 1.056
+                },
+                "LeftMargin": 210.0,
+                "RightMargin": 28.0,
+                "TopMargin": 11.25,
+                "BottomMargin": -18.25,
+                "Tag": 681,
+                "ActionTag": 1473325156,
+                "Size": {
+                  "X": 112.0,
+                  "Y": 132.0
+                },
+                "Name": "public_btn",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": 883973796,
+            "Size": {
+              "X": 350.0,
+              "Y": 125.0
+            },
+            "Name": "top_panel",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentWidthEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.2083
+            },
+            "TopMargin": 570.0,
+            "Tag": 16,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "GameHallUI/bottom_bg.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 41,
+                "Scale9OriginY": 18,
+                "Scale9Width": 1198,
+                "Scale9Height": 12,
+                "AnchorPoint": {
+                  "ScaleX": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.0
+                },
+                "PercentWidthEnable": true,
+                "PercentWidthEnabled": true,
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 0.32
+                },
+                "TopMargin": 102.0,
+                "Tag": 682,
+                "ActionTag": -1627432846,
+                "Size": {
+                  "X": 1280.0,
+                  "Y": 48.0
+                },
+                "Name": "bottom_bg_img",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "GameHallUI/notice_btn.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 96,
+                "Scale9Height": 86,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 194.176,
+                  "Y": 42.3
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.1517,
+                  "Y": 0.282
+                },
+                "PreSize": {
+                  "X": 0.0984,
+                  "Y": 0.72
+                },
+                "LeftMargin": 131.176,
+                "RightMargin": 1022.824,
+                "TopMargin": 53.7,
+                "BottomMargin": -11.7,
+                "Tag": 678,
+                "ActionTag": 1900044781,
+                "Size": {
+                  "X": 126.0,
+                  "Y": 108.0
+                },
+                "Name": "notice_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "GameHallUI/achievement_btn.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 96,
+                "Scale9Height": 86,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 409.216,
+                  "Y": 42.3
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.3197,
+                  "Y": 0.282
+                },
+                "PreSize": {
+                  "X": 0.0984,
+                  "Y": 0.72
+                },
+                "LeftMargin": 346.216,
+                "RightMargin": 807.784,
+                "TopMargin": 53.7,
+                "BottomMargin": -11.7,
+                "Tag": 88,
+                "ActionTag": 1953808810,
+                "Size": {
+                  "X": 126.0,
+                  "Y": 108.0
+                },
+                "Name": "score_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "GameHallUI/customerservice_btn.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 96,
+                "Scale9Height": 86,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 620.416,
+                  "Y": 42.3
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.4847,
+                  "Y": 0.282
+                },
+                "PreSize": {
+                  "X": 0.0984,
+                  "Y": 0.72
+                },
+                "LeftMargin": 557.416,
+                "RightMargin": 596.584,
+                "TopMargin": 53.7,
+                "BottomMargin": -11.7,
+                "Tag": 5467,
+                "ActionTag": -1148240050,
+                "Size": {
+                  "X": 126.0,
+                  "Y": 108.0
+                },
+                "Name": "customerservice_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "GameHallUI/intro_btn.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 96,
+                "Scale9Height": 86,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 831.616,
+                  "Y": 42.3
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.6497,
+                  "Y": 0.282
+                },
+                "PreSize": {
+                  "X": 0.0984,
+                  "Y": 0.72
+                },
+                "LeftMargin": 768.616,
+                "RightMargin": 385.384,
+                "TopMargin": 53.7,
+                "BottomMargin": -11.7,
+                "Tag": 680,
+                "ActionTag": 2125618286,
+                "Size": {
+                  "X": 126.0,
+                  "Y": 108.0
+                },
+                "Name": "intro_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "GameHallUI/setting_btn.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 96,
+                "Scale9Height": 86,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1042.816,
+                  "Y": 42.3
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.8147,
+                  "Y": 0.282
+                },
+                "PreSize": {
+                  "X": 0.0984,
+                  "Y": 0.72
+                },
+                "LeftMargin": 979.816,
+                "RightMargin": 174.184,
+                "TopMargin": 53.7,
+                "BottomMargin": -11.7,
+                "Tag": 90,
+                "ActionTag": 932783644,
+                "Size": {
+                  "X": 126.0,
+                  "Y": 108.0
+                },
+                "Name": "config_btn",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -1821411766,
+            "Size": {
+              "X": 1280.0,
+              "Y": 150.0
+            },
+            "Name": "function_panel",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": -2,
+            "Scale9OriginY": -2,
+            "Scale9Width": 4,
+            "Scale9Height": 4,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": -2.016
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": -0.0028
+            },
+            "PercentWidthEnable": true,
+            "PercentWidthEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.0528
+            },
+            "TopMargin": 684.016,
+            "BottomMargin": -2.016,
+            "Tag": 20,
+            "Children": [
+              {
+                "FontSize": 20,
+                "LabelText": "抵制不良游戏，拒绝盗版游戏。注意自我保护，谨防上当受骗。适度游戏益脑，沉迷游戏伤身，合理安排时间，享受健康生活。",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "font/zhunyuan.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 19.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.8687,
+                  "Y": 0.6053
+                },
+                "LeftMargin": 84.0,
+                "RightMargin": 84.0,
+                "TopMargin": 7.5,
+                "BottomMargin": 7.5,
+                "Tag": 21,
+                "ActionTag": 1799793130,
+                "Size": {
+                  "X": 1112.0,
+                  "Y": 23.0
+                },
+                "Name": "bottom_text",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1815271008,
+            "Size": {
+              "X": 1280.0,
+              "Y": 38.0
+            },
+            "Name": "bottom_panel",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "font/zhunyuan.ttf",
+        "GameHallUI/achievement_btn.png",
+        "GameHallUI/add_btn.png",
+        "GameHallUI/authenticate_btn.png",
+        "GameHallUI/bg.png",
+        "GameHallUI/bottom_bg.png",
+        "GameHallUI/card.png",
+        "GameHallUI/code_btn.png",
+        "GameHallUI/create_club_btn.png",
+        "GameHallUI/create_room_btn.png",
+        "GameHallUI/customerservice_btn.png",
+        "GameHallUI/diamond_bg.png",
+        "GameHallUI/freeCard_btn.png",
+        "GameHallUI/head_frame.png",
+        "GameHallUI/info_bg.png",
+        "GameHallUI/intro_btn.png",
+        "GameHallUI/join_club_btn.png",
+        "GameHallUI/join_room_btn.png",
+        "GameHallUI/notice_btn.png",
+        "GameHallUI/portrait_sprite.png",
+        "GameHallUI/public_btn.png",
+        "GameHallUI/setting_btn.png",
+        "GameHallUI/title.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

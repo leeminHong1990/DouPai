@@ -1,0 +1,3279 @@
+{
+  "ID": "034491f1-8478-459d-bf14-9805678a0c48",
+  "Version": "3.10.0.0",
+  "Name": "GameRoom2DUI",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 18,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 638.72,
+              "Y": 395.424
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.499,
+              "Y": 0.5492
+            },
+            "PreSize": {
+              "X": 0.4062,
+              "Y": 0.7222
+            },
+            "LeftMargin": 378.72,
+            "RightMargin": 381.28,
+            "TopMargin": 64.576,
+            "BottomMargin": 135.424,
+            "Tag": 173,
+            "Children": [
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 283.348,
+                  "Y": 220.22
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5449,
+                  "Y": 0.4235
+                },
+                "PreSize": {
+                  "X": 0.2231,
+                  "Y": 0.2231
+                },
+                "LeftMargin": 225.348,
+                "RightMargin": 178.652,
+                "TopMargin": 241.78,
+                "BottomMargin": 162.22,
+                "Tag": 2708,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GameRoomUI/lefttime_bg.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 38,
+                    "Scale9OriginY": 36,
+                    "Scale9Width": 40,
+                    "Scale9Height": 40,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 58.0,
+                      "Y": 58.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 0.9655
+                    },
+                    "TopMargin": 2.0,
+                    "BottomMargin": 2.0,
+                    "Tag": 688,
+                    "ActionTag": 1261573159,
+                    "Size": {
+                      "X": 116.0,
+                      "Y": 112.0
+                    },
+                    "Name": "lefttime_bg",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "LabelText": "15",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "GameRoomUI/daojishi.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 58.0,
+                      "Y": 71.92
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.62
+                    },
+                    "PreSize": {
+                      "X": 0.6897,
+                      "Y": 0.2759
+                    },
+                    "LeftMargin": 18.0,
+                    "RightMargin": 18.0,
+                    "TopMargin": 28.08,
+                    "BottomMargin": 55.92,
+                    "Tag": 1061,
+                    "ActionTag": 299150101,
+                    "Size": {
+                      "X": 80.0,
+                      "Y": 32.0
+                    },
+                    "Name": "lefttime_label",
+                    "ctype": "TextBMFontObjectData"
+                  }
+                ],
+                "ActionTag": -1905160143,
+                "Size": {
+                  "X": 116.0,
+                  "Y": 116.0
+                },
+                "Name": "cur_player_panel",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": 1848235869,
+            "Size": {
+              "X": 520.0,
+              "Y": 520.0
+            },
+            "Name": "game_info_panel",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 6036,
+            "ActionTag": 956068045,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "bg_panel",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {
+              "ScaleX": 0.5
+            },
+            "Position": {
+              "X": 652.544,
+              "Y": 127.296
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5098,
+              "Y": 0.1768
+            },
+            "PreSize": {
+              "X": 0.1797,
+              "Y": 0.1806
+            },
+            "LeftMargin": 537.544,
+            "RightMargin": 512.456,
+            "TopMargin": 462.704,
+            "BottomMargin": 127.296,
+            "Tag": 2308,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "PlayerTileNode.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 115.0,
+                  "Y": 65.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 115.0,
+                "RightMargin": 115.0,
+                "TopMargin": 65.0,
+                "BottomMargin": 65.0,
+                "Tag": 2309,
+                "ActionTag": -467171416,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "player_tile_panel",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "GameRoomUI/ox_1.png",
+                  "Plist": "GameRoomUI.plist"
+                },
+                "Scale9OriginX": 51,
+                "Scale9OriginY": 21,
+                "Scale9Width": 54,
+                "Scale9Height": 22,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 119.7225,
+                  "Y": 50.6593
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5205,
+                  "Y": 0.3897
+                },
+                "PreSize": {
+                  "X": 0.6783,
+                  "Y": 0.4923
+                },
+                "LeftMargin": 41.7225,
+                "RightMargin": 32.2775,
+                "TopMargin": 47.3407,
+                "BottomMargin": 18.6593,
+                "Tag": 2317,
+                "ActionTag": 1434928944,
+                "Size": {
+                  "X": 156.0,
+                  "Y": 64.0
+                },
+                "Name": "poker_title_img",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -770734482,
+            "Size": {
+              "X": 230.0,
+              "Y": 130.0
+            },
+            "VisibleForFrame": false,
+            "Name": "player_tile_panel0",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {
+              "ScaleX": 0.5
+            },
+            "Position": {
+              "X": 1056.256,
+              "Y": 250.56
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.8252,
+              "Y": 0.348
+            },
+            "PreSize": {
+              "X": 0.1797,
+              "Y": 0.1806
+            },
+            "LeftMargin": 941.256,
+            "RightMargin": 108.744,
+            "TopMargin": 339.44,
+            "BottomMargin": 250.56,
+            "Tag": 2095,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "PlayerTileNode.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 115.0,
+                  "Y": 65.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 115.0,
+                "RightMargin": 115.0,
+                "TopMargin": 65.0,
+                "BottomMargin": 65.0,
+                "Tag": 2096,
+                "ActionTag": -431099836,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "player_tile_panel",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "GameRoomUI/ox_1.png",
+                  "Plist": "GameRoomUI.plist"
+                },
+                "Scale9OriginX": 51,
+                "Scale9OriginY": 21,
+                "Scale9Width": 54,
+                "Scale9Height": 22,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 119.7225,
+                  "Y": 50.6593
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5205,
+                  "Y": 0.3897
+                },
+                "PreSize": {
+                  "X": 0.6783,
+                  "Y": 0.4923
+                },
+                "LeftMargin": 41.7225,
+                "RightMargin": 32.2775,
+                "TopMargin": 47.3407,
+                "BottomMargin": 18.6593,
+                "Tag": 2192,
+                "ActionTag": 285601055,
+                "Size": {
+                  "X": 156.0,
+                  "Y": 64.0
+                },
+                "Name": "poker_title_img",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 1464622172,
+            "Size": {
+              "X": 230.0,
+              "Y": 130.0
+            },
+            "Name": "player_tile_panel1",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {
+              "ScaleX": 0.5
+            },
+            "Position": {
+              "X": 992.768,
+              "Y": 476.136
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.7756,
+              "Y": 0.6613
+            },
+            "PreSize": {
+              "X": 0.1797,
+              "Y": 0.1806
+            },
+            "LeftMargin": 877.768,
+            "RightMargin": 172.2319,
+            "TopMargin": 113.864,
+            "BottomMargin": 476.136,
+            "Tag": 2259,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "PlayerTileNode.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 115.0,
+                  "Y": 65.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 115.0,
+                "RightMargin": 115.0,
+                "TopMargin": 65.0,
+                "BottomMargin": 65.0,
+                "Tag": 2260,
+                "ActionTag": -534922757,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "player_tile_panel",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "GameRoomUI/ox_1.png",
+                  "Plist": "GameRoomUI.plist"
+                },
+                "Scale9OriginX": 51,
+                "Scale9OriginY": 21,
+                "Scale9Width": 54,
+                "Scale9Height": 22,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 119.7225,
+                  "Y": 50.6593
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5205,
+                  "Y": 0.3897
+                },
+                "PreSize": {
+                  "X": 0.6783,
+                  "Y": 0.4923
+                },
+                "LeftMargin": 41.7225,
+                "RightMargin": 32.2775,
+                "TopMargin": 47.3407,
+                "BottomMargin": 18.6593,
+                "Tag": 2268,
+                "ActionTag": -1945328244,
+                "Size": {
+                  "X": 156.0,
+                  "Y": 64.0
+                },
+                "Name": "poker_title_img",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 418361084,
+            "Size": {
+              "X": 230.0,
+              "Y": 130.0
+            },
+            "Name": "player_tile_panel2",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {
+              "ScaleX": 0.5
+            },
+            "Position": {
+              "X": 652.544,
+              "Y": 478.008
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5098,
+              "Y": 0.6639
+            },
+            "PreSize": {
+              "X": 0.1797,
+              "Y": 0.1806
+            },
+            "LeftMargin": 537.544,
+            "RightMargin": 512.456,
+            "TopMargin": 111.9919,
+            "BottomMargin": 478.008,
+            "Tag": 2269,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "PlayerTileNode.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 115.0,
+                  "Y": 65.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 115.0,
+                "RightMargin": 115.0,
+                "TopMargin": 65.0,
+                "BottomMargin": 65.0,
+                "Tag": 2270,
+                "ActionTag": -1306835027,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "player_tile_panel",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "GameRoomUI/ox_1.png",
+                  "Plist": "GameRoomUI.plist"
+                },
+                "Scale9OriginX": 51,
+                "Scale9OriginY": 21,
+                "Scale9Width": 54,
+                "Scale9Height": 22,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 119.7225,
+                  "Y": 50.6593
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5205,
+                  "Y": 0.3897
+                },
+                "PreSize": {
+                  "X": 0.6783,
+                  "Y": 0.4923
+                },
+                "LeftMargin": 41.7225,
+                "RightMargin": 32.2775,
+                "TopMargin": 47.3407,
+                "BottomMargin": 18.6593,
+                "Tag": 2278,
+                "ActionTag": -894300050,
+                "Size": {
+                  "X": 156.0,
+                  "Y": 64.0
+                },
+                "Name": "poker_title_img",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 1308725217,
+            "Size": {
+              "X": 230.0,
+              "Y": 130.0
+            },
+            "Name": "player_tile_panel3",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {
+              "ScaleX": 0.5
+            },
+            "Position": {
+              "X": 286.208,
+              "Y": 478.368
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.2236,
+              "Y": 0.6644
+            },
+            "PreSize": {
+              "X": 0.1797,
+              "Y": 0.1806
+            },
+            "LeftMargin": 171.208,
+            "RightMargin": 878.792,
+            "TopMargin": 111.632,
+            "BottomMargin": 478.368,
+            "Tag": 2279,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "PlayerTileNode.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 115.0,
+                  "Y": 65.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 115.0,
+                "RightMargin": 115.0,
+                "TopMargin": 65.0,
+                "BottomMargin": 65.0,
+                "Tag": 2280,
+                "ActionTag": 921105610,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "player_tile_panel",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "GameRoomUI/ox_1.png",
+                  "Plist": "GameRoomUI.plist"
+                },
+                "Scale9OriginX": 51,
+                "Scale9OriginY": 21,
+                "Scale9Width": 54,
+                "Scale9Height": 22,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 119.7225,
+                  "Y": 50.6593
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5205,
+                  "Y": 0.3897
+                },
+                "PreSize": {
+                  "X": 0.6783,
+                  "Y": 0.4923
+                },
+                "LeftMargin": 41.7225,
+                "RightMargin": 32.2775,
+                "TopMargin": 47.3407,
+                "BottomMargin": 18.6593,
+                "Tag": 2288,
+                "ActionTag": -1678600049,
+                "Size": {
+                  "X": 156.0,
+                  "Y": 64.0
+                },
+                "Name": "poker_title_img",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 1271643547,
+            "Size": {
+              "X": 230.0,
+              "Y": 130.0
+            },
+            "Name": "player_tile_panel4",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {
+              "ScaleX": 0.5
+            },
+            "Position": {
+              "X": 233.216,
+              "Y": 249.408
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.1822,
+              "Y": 0.3464
+            },
+            "PreSize": {
+              "X": 0.1797,
+              "Y": 0.1806
+            },
+            "LeftMargin": 118.216,
+            "RightMargin": 931.784,
+            "TopMargin": 340.592,
+            "BottomMargin": 249.408,
+            "Tag": 2289,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "PlayerTileNode.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 115.0,
+                  "Y": 65.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 115.0,
+                "RightMargin": 115.0,
+                "TopMargin": 65.0,
+                "BottomMargin": 65.0,
+                "Tag": 2290,
+                "ActionTag": -845460516,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "player_tile_panel",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "GameRoomUI/ox_1.png",
+                  "Plist": "GameRoomUI.plist"
+                },
+                "Scale9OriginX": 51,
+                "Scale9OriginY": 21,
+                "Scale9Width": 54,
+                "Scale9Height": 22,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 119.7225,
+                  "Y": 50.6593
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5205,
+                  "Y": 0.3897
+                },
+                "PreSize": {
+                  "X": 0.6783,
+                  "Y": 0.4923
+                },
+                "LeftMargin": 41.7225,
+                "RightMargin": 32.2775,
+                "TopMargin": 47.3407,
+                "BottomMargin": 18.6593,
+                "Tag": 2298,
+                "ActionTag": -221475074,
+                "Size": {
+                  "X": 156.0,
+                  "Y": 64.0
+                },
+                "Name": "poker_title_img",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -1974241808,
+            "Size": {
+              "X": 230.0,
+              "Y": 130.0
+            },
+            "Name": "player_tile_panel5",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": -6.656,
+              "Y": 6.048
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": -0.0052,
+              "Y": 0.0084
+            },
+            "PreSize": {
+              "X": 0.0938,
+              "Y": 0.2222
+            },
+            "LeftMargin": -6.656,
+            "RightMargin": 1166.656,
+            "TopMargin": 553.952,
+            "BottomMargin": 6.048,
+            "Tag": 925,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "PlayerInfoNode.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 60.0,
+                  "Y": 80.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 60.0,
+                "RightMargin": 60.0,
+                "TopMargin": 80.0,
+                "BottomMargin": 80.0,
+                "Tag": 760,
+                "ActionTag": -1485377345,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "player_info_panel",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "GameRoomUI/score_mul_0.png",
+                  "Plist": "GameRoomUI.plist"
+                },
+                "Scale9OriginX": 19,
+                "Scale9OriginY": 10,
+                "Scale9Width": 22,
+                "Scale9Height": 12,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 148.6697,
+                  "Y": 92.5156
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 1.2389,
+                  "Y": 0.5782
+                },
+                "PreSize": {
+                  "X": 0.5,
+                  "Y": 0.2
+                },
+                "LeftMargin": 118.6697,
+                "RightMargin": -58.6697,
+                "TopMargin": 51.4844,
+                "BottomMargin": 76.5156,
+                "Tag": 2038,
+                "ActionTag": -1742418062,
+                "Size": {
+                  "X": 60.0,
+                  "Y": 32.0
+                },
+                "VisibleForFrame": false,
+                "Name": "score_img",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "LabelText": "X5",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "GameRoomUI/jiafen.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 148.6697,
+                  "Y": 92.5154
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 1.2389,
+                  "Y": 0.5782
+                },
+                "PreSize": {
+                  "X": 0.3333,
+                  "Y": 0.175
+                },
+                "LeftMargin": 128.6697,
+                "RightMargin": -48.6697,
+                "TopMargin": 53.4846,
+                "BottomMargin": 78.5154,
+                "Tag": 2197,
+                "ActionTag": -647323769,
+                "Size": {
+                  "X": 40.0,
+                  "Y": 28.0
+                },
+                "VisibleForFrame": false,
+                "Name": "score_num",
+                "ctype": "TextBMFontObjectData"
+              }
+            ],
+            "ActionTag": -1431751913,
+            "Size": {
+              "X": 120.0,
+              "Y": 160.0
+            },
+            "Name": "player_info_panel0",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.9,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1274.496,
+              "Y": 329.4
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.9957,
+              "Y": 0.4575
+            },
+            "PreSize": {
+              "X": 0.0938,
+              "Y": 0.2222
+            },
+            "LeftMargin": 1166.496,
+            "RightMargin": -6.496,
+            "TopMargin": 310.6,
+            "BottomMargin": 249.4,
+            "Tag": 931,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "PlayerInfoNode.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 60.0,
+                  "Y": 80.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 60.0,
+                "RightMargin": 60.0,
+                "TopMargin": 80.0,
+                "BottomMargin": 80.0,
+                "Tag": 932,
+                "ActionTag": 350294312,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "player_info_panel",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "GameRoomUI/score_mul_0.png",
+                  "Plist": "GameRoomUI.plist"
+                },
+                "Scale9OriginX": 19,
+                "Scale9OriginY": 10,
+                "Scale9Width": 22,
+                "Scale9Height": 12,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 60.0,
+                  "Y": 140.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.875
+                },
+                "PreSize": {
+                  "X": 0.5,
+                  "Y": 0.2
+                },
+                "LeftMargin": 30.0,
+                "RightMargin": 30.0,
+                "TopMargin": 4.0,
+                "BottomMargin": 124.0,
+                "Tag": 2044,
+                "ActionTag": 1435099197,
+                "Size": {
+                  "X": 60.0,
+                  "Y": 32.0
+                },
+                "VisibleForFrame": false,
+                "Name": "score_img",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "LabelText": "X5",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "GameRoomUI/jiafen.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 60.0,
+                  "Y": 140.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.875
+                },
+                "PreSize": {
+                  "X": 0.3333,
+                  "Y": 0.175
+                },
+                "LeftMargin": 40.0,
+                "RightMargin": 40.0,
+                "TopMargin": 6.0,
+                "BottomMargin": 126.0,
+                "Tag": 2094,
+                "ActionTag": 1432602076,
+                "Size": {
+                  "X": 40.0,
+                  "Y": 28.0
+                },
+                "VisibleForFrame": false,
+                "Name": "score_num",
+                "ctype": "TextBMFontObjectData"
+              }
+            ],
+            "ActionTag": 1909358688,
+            "Size": {
+              "X": 120.0,
+              "Y": 160.0
+            },
+            "Name": "player_info_panel1",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 1.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1277.184,
+              "Y": 576.144
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.9978,
+              "Y": 0.8002
+            },
+            "PreSize": {
+              "X": 0.0938,
+              "Y": 0.2222
+            },
+            "LeftMargin": 1097.184,
+            "RightMargin": 62.816,
+            "TopMargin": 63.856,
+            "BottomMargin": 496.144,
+            "Tag": 944,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "PlayerInfoNode.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 60.0,
+                  "Y": 80.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 60.0,
+                "RightMargin": 60.0,
+                "TopMargin": 80.0,
+                "BottomMargin": 80.0,
+                "Tag": 945,
+                "ActionTag": -1554211040,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "player_info_panel",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "GameRoomUI/score_mul_0.png",
+                  "Plist": "GameRoomUI.plist"
+                },
+                "Scale9OriginX": 19,
+                "Scale9OriginY": 10,
+                "Scale9Width": 22,
+                "Scale9Height": 12,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 60.0,
+                  "Y": 140.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.875
+                },
+                "PreSize": {
+                  "X": 0.5,
+                  "Y": 0.2
+                },
+                "LeftMargin": 30.0,
+                "RightMargin": 30.0,
+                "TopMargin": 4.0,
+                "BottomMargin": 124.0,
+                "Tag": 2043,
+                "ActionTag": -686085454,
+                "Size": {
+                  "X": 60.0,
+                  "Y": 32.0
+                },
+                "VisibleForFrame": false,
+                "Name": "score_img",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "LabelText": "X5",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "GameRoomUI/jiafen.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 60.0,
+                  "Y": 140.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.875
+                },
+                "PreSize": {
+                  "X": 0.3333,
+                  "Y": 0.175
+                },
+                "LeftMargin": 40.0,
+                "RightMargin": 40.0,
+                "TopMargin": 6.0,
+                "BottomMargin": 126.0,
+                "Tag": 2095,
+                "ActionTag": 833102515,
+                "Size": {
+                  "X": 40.0,
+                  "Y": 28.0
+                },
+                "VisibleForFrame": false,
+                "Name": "score_num",
+                "ctype": "TextBMFontObjectData"
+              }
+            ],
+            "ActionTag": 1875594433,
+            "Size": {
+              "X": 120.0,
+              "Y": 160.0
+            },
+            "Name": "player_info_panel2",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.8
+            },
+            "Position": {
+              "X": 647.68,
+              "Y": 724.104
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.506,
+              "Y": 1.0057
+            },
+            "PreSize": {
+              "X": 0.0938,
+              "Y": 0.2222
+            },
+            "LeftMargin": 587.68,
+            "RightMargin": 572.32,
+            "TopMargin": -36.104,
+            "BottomMargin": 596.104,
+            "Tag": 957,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "PlayerInfoNode.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 60.0,
+                  "Y": 80.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 60.0,
+                "RightMargin": 60.0,
+                "TopMargin": 80.0,
+                "BottomMargin": 80.0,
+                "Tag": 958,
+                "ActionTag": 811331127,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "player_info_panel",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "GameRoomUI/score_mul_0.png",
+                  "Plist": "GameRoomUI.plist"
+                },
+                "Scale9OriginX": 19,
+                "Scale9OriginY": 10,
+                "Scale9Width": 22,
+                "Scale9Height": 12,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 150.0,
+                  "Y": 80.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 1.25,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.5,
+                  "Y": 0.2
+                },
+                "LeftMargin": 120.0,
+                "RightMargin": -60.0,
+                "TopMargin": 64.0,
+                "BottomMargin": 64.0,
+                "Tag": 2042,
+                "ActionTag": 1999488825,
+                "Size": {
+                  "X": 60.0,
+                  "Y": 32.0
+                },
+                "VisibleForFrame": false,
+                "Name": "score_img",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "LabelText": "X5",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "GameRoomUI/jiafen.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 150.0,
+                  "Y": 80.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 1.25,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.3333,
+                  "Y": 0.175
+                },
+                "LeftMargin": 130.0,
+                "RightMargin": -50.0,
+                "TopMargin": 66.0,
+                "BottomMargin": 66.0,
+                "Tag": 2096,
+                "ActionTag": 2003271910,
+                "Size": {
+                  "X": 40.0,
+                  "Y": 28.0
+                },
+                "VisibleForFrame": false,
+                "Name": "score_num",
+                "ctype": "TextBMFontObjectData"
+              }
+            ],
+            "ActionTag": -472822373,
+            "Size": {
+              "X": 120.0,
+              "Y": 160.0
+            },
+            "Name": "player_info_panel3",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 1.4
+            },
+            "Position": {
+              "X": 123.52,
+              "Y": 715.248
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.0965,
+              "Y": 0.9934
+            },
+            "PreSize": {
+              "X": 0.0938,
+              "Y": 0.2222
+            },
+            "LeftMargin": 63.52,
+            "RightMargin": 1096.48,
+            "TopMargin": 68.752,
+            "BottomMargin": 491.248,
+            "Tag": 970,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "PlayerInfoNode.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 60.0,
+                  "Y": 80.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 60.0,
+                "RightMargin": 60.0,
+                "TopMargin": 80.0,
+                "BottomMargin": 80.0,
+                "Tag": 971,
+                "ActionTag": -1762968437,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "player_info_panel",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "GameRoomUI/score_mul_0.png",
+                  "Plist": "GameRoomUI.plist"
+                },
+                "Scale9OriginX": 19,
+                "Scale9OriginY": 10,
+                "Scale9Width": 22,
+                "Scale9Height": 12,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 60.0,
+                  "Y": 140.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.875
+                },
+                "PreSize": {
+                  "X": 0.5,
+                  "Y": 0.2
+                },
+                "LeftMargin": 30.0,
+                "RightMargin": 30.0,
+                "TopMargin": 4.0,
+                "BottomMargin": 124.0,
+                "Tag": 2041,
+                "ActionTag": 984302642,
+                "Size": {
+                  "X": 60.0,
+                  "Y": 32.0
+                },
+                "VisibleForFrame": false,
+                "Name": "score_img",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "LabelText": "X5",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "GameRoomUI/jiafen.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 60.0,
+                  "Y": 140.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.875
+                },
+                "PreSize": {
+                  "X": 0.3333,
+                  "Y": 0.175
+                },
+                "LeftMargin": 40.0,
+                "RightMargin": 40.0,
+                "TopMargin": 6.0,
+                "BottomMargin": 126.0,
+                "Tag": 2097,
+                "ActionTag": 1426646764,
+                "Size": {
+                  "X": 40.0,
+                  "Y": 28.0
+                },
+                "VisibleForFrame": false,
+                "Name": "score_num",
+                "ctype": "TextBMFontObjectData"
+              }
+            ],
+            "ActionTag": 901950884,
+            "Size": {
+              "X": 120.0,
+              "Y": 160.0
+            },
+            "Name": "player_info_panel4",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.1,
+              "ScaleY": 0.1
+            },
+            "Position": {
+              "X": 4.096,
+              "Y": 263.232
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.0032,
+              "Y": 0.3656
+            },
+            "PreSize": {
+              "X": 0.0938,
+              "Y": 0.2222
+            },
+            "LeftMargin": -7.904,
+            "RightMargin": 1167.9041,
+            "TopMargin": 312.768,
+            "BottomMargin": 247.232,
+            "Tag": 983,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "PlayerInfoNode.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 60.0,
+                  "Y": 80.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 60.0,
+                "RightMargin": 60.0,
+                "TopMargin": 80.0,
+                "BottomMargin": 80.0,
+                "Tag": 984,
+                "ActionTag": -1177305496,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "player_info_panel",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "GameRoomUI/score_mul_0.png",
+                  "Plist": "GameRoomUI.plist"
+                },
+                "Scale9OriginX": 19,
+                "Scale9OriginY": 10,
+                "Scale9Width": 22,
+                "Scale9Height": 12,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 60.0,
+                  "Y": 140.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.875
+                },
+                "PreSize": {
+                  "X": 0.5,
+                  "Y": 0.2
+                },
+                "LeftMargin": 30.0,
+                "RightMargin": 30.0,
+                "TopMargin": 4.0,
+                "BottomMargin": 124.0,
+                "Tag": 2040,
+                "ActionTag": 1037993391,
+                "Size": {
+                  "X": 60.0,
+                  "Y": 32.0
+                },
+                "VisibleForFrame": false,
+                "Name": "score_img",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "LabelText": "X5",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "GameRoomUI/jiafen.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 60.0,
+                  "Y": 140.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.875
+                },
+                "PreSize": {
+                  "X": 0.3333,
+                  "Y": 0.175
+                },
+                "LeftMargin": 40.0,
+                "RightMargin": 40.0,
+                "TopMargin": 6.0,
+                "BottomMargin": 126.0,
+                "Tag": 2098,
+                "ActionTag": -184798178,
+                "Size": {
+                  "X": 40.0,
+                  "Y": 28.0
+                },
+                "VisibleForFrame": false,
+                "Name": "score_num",
+                "ctype": "TextBMFontObjectData"
+              }
+            ],
+            "ActionTag": -1090404765,
+            "Size": {
+              "X": 120.0,
+              "Y": 160.0
+            },
+            "Name": "player_info_panel5",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {
+              "ScaleX": 0.5
+            },
+            "Position": {
+              "X": 705.024,
+              "Y": 0.576
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5508,
+              "Y": 0.0008
+            },
+            "PreSize": {
+              "X": 0.625,
+              "Y": 0.3472
+            },
+            "LeftMargin": 305.024,
+            "RightMargin": 174.9761,
+            "TopMargin": 469.424,
+            "BottomMargin": 0.576,
+            "Tag": 2318,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "GameRoomUI/ox_pass_btn.png",
+                  "Plist": "GameRoomUI.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 156,
+                "Scale9Height": 47,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 690.8016,
+                  "Y": 49.2838
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8635,
+                  "Y": 0.1971
+                },
+                "PreSize": {
+                  "X": 0.2325,
+                  "Y": 0.276
+                },
+                "LeftMargin": 597.8016,
+                "RightMargin": 16.1984,
+                "TopMargin": 166.2162,
+                "BottomMargin": 14.7838,
+                "Tag": 2319,
+                "ActionTag": 501334373,
+                "Size": {
+                  "X": 186.0,
+                  "Y": 69.0
+                },
+                "Name": "ox_pass_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "GameRoomUI/ox_confirm_btn.png",
+                  "Plist": "GameRoomUI.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 156,
+                "Scale9Height": 47,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 690.8016,
+                  "Y": 119.473
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8635,
+                  "Y": 0.4779
+                },
+                "PreSize": {
+                  "X": 0.2325,
+                  "Y": 0.276
+                },
+                "LeftMargin": 597.8016,
+                "RightMargin": 16.1984,
+                "TopMargin": 96.027,
+                "BottomMargin": 84.973,
+                "Tag": 2320,
+                "ActionTag": 254336347,
+                "Size": {
+                  "X": 186.0,
+                  "Y": 69.0
+                },
+                "Name": "ox_confirm_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9OriginX": -135,
+                "Scale9OriginY": -27,
+                "Scale9Width": 270,
+                "Scale9Height": 54,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 338.3486,
+                  "Y": 219.3967
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4229,
+                  "Y": 0.8776
+                },
+                "PreSize": {
+                  "X": 0.515,
+                  "Y": 0.336
+                },
+                "LeftMargin": 132.3486,
+                "RightMargin": 255.6514,
+                "TopMargin": -11.3967,
+                "BottomMargin": 177.3967,
+                "Tag": 2321,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "GameRoomUI/computer_select_bg.png",
+                      "Plist": "GameRoomUI.plist"
+                    },
+                    "Scale9OriginX": 135,
+                    "Scale9OriginY": 27,
+                    "Scale9Width": 142,
+                    "Scale9Height": 30,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 206.0,
+                      "Y": 42.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "Tag": 2322,
+                    "ActionTag": 1873225261,
+                    "Size": {
+                      "X": 412.0,
+                      "Y": 84.0
+                    },
+                    "Name": "select_bg",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "LabelText": "Q",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "GameRoomUI/fenshuban.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 68.338,
+                      "Y": 46.64
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1659,
+                      "Y": 0.5552
+                    },
+                    "PreSize": {
+                      "X": 0.0922,
+                      "Y": 0.3333
+                    },
+                    "LeftMargin": 49.338,
+                    "RightMargin": 324.662,
+                    "TopMargin": 23.36,
+                    "BottomMargin": 32.64,
+                    "Tag": 1887,
+                    "ActionTag": 795761891,
+                    "Size": {
+                      "X": 38.0,
+                      "Y": 28.0
+                    },
+                    "Name": "num0",
+                    "ctype": "TextBMFontObjectData"
+                  },
+                  {
+                    "LabelText": "Q",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "GameRoomUI/fenshuban.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 166.0813,
+                      "Y": 46.64
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4031,
+                      "Y": 0.5552
+                    },
+                    "PreSize": {
+                      "X": 0.0922,
+                      "Y": 0.3333
+                    },
+                    "LeftMargin": 147.0813,
+                    "RightMargin": 226.9187,
+                    "TopMargin": 23.36,
+                    "BottomMargin": 32.64,
+                    "Tag": 1888,
+                    "ActionTag": -1603513334,
+                    "Size": {
+                      "X": 38.0,
+                      "Y": 28.0
+                    },
+                    "Name": "num1",
+                    "ctype": "TextBMFontObjectData"
+                  },
+                  {
+                    "LabelText": "Q",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "GameRoomUI/fenshuban.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 258.9304,
+                      "Y": 46.64
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6285,
+                      "Y": 0.5552
+                    },
+                    "PreSize": {
+                      "X": 0.0922,
+                      "Y": 0.3333
+                    },
+                    "LeftMargin": 239.9304,
+                    "RightMargin": 134.0696,
+                    "TopMargin": 23.36,
+                    "BottomMargin": 32.64,
+                    "Tag": 1889,
+                    "ActionTag": 1729967523,
+                    "Size": {
+                      "X": 38.0,
+                      "Y": 28.0
+                    },
+                    "Name": "num2",
+                    "ctype": "TextBMFontObjectData"
+                  },
+                  {
+                    "LabelText": "Q",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "GameRoomUI/fenshuban.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 363.8269,
+                      "Y": 46.64
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8831,
+                      "Y": 0.5552
+                    },
+                    "PreSize": {
+                      "X": 0.0922,
+                      "Y": 0.3333
+                    },
+                    "LeftMargin": 344.8269,
+                    "RightMargin": 29.1731,
+                    "TopMargin": 23.36,
+                    "BottomMargin": 32.64,
+                    "Tag": 1890,
+                    "ActionTag": 2119095671,
+                    "Size": {
+                      "X": 38.0,
+                      "Y": 28.0
+                    },
+                    "Name": "num3",
+                    "ctype": "TextBMFontObjectData"
+                  }
+                ],
+                "ActionTag": 421690130,
+                "Size": {
+                  "X": 412.0,
+                  "Y": 84.0
+                },
+                "Name": "computer_panel",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": 420977106,
+            "Size": {
+              "X": 800.0,
+              "Y": 250.0
+            },
+            "VisibleForFrame": false,
+            "Name": "player_computer_panel",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5
+            },
+            "Position": {
+              "X": 574.336,
+              "Y": 6.192
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.4487,
+              "Y": 0.0086
+            },
+            "PreSize": {
+              "X": 0.4922,
+              "Y": 0.2778
+            },
+            "LeftMargin": 259.336,
+            "RightMargin": 390.664,
+            "TopMargin": 513.808,
+            "BottomMargin": 6.192,
+            "Tag": 1515,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "PlayerTileNode2.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 315.0,
+                  "Y": 100.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 315.0,
+                "RightMargin": 315.0,
+                "TopMargin": 100.0,
+                "BottomMargin": 100.0,
+                "Tag": 1501,
+                "ActionTag": 290763407,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "player_tile_panel",
+                "ctype": "ProjectNodeObjectData"
+              }
+            ],
+            "ActionTag": -375428383,
+            "Size": {
+              "X": 630.0,
+              "Y": 200.0
+            },
+            "Name": "player_hand_panel",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 105.984,
+              "Y": 133.2
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.0828,
+              "Y": 0.185
+            },
+            "PreSize": {
+              "X": 0.1172,
+              "Y": 0.1389
+            },
+            "LeftMargin": 105.984,
+            "RightMargin": 1024.016,
+            "TopMargin": 486.8,
+            "BottomMargin": 133.2,
+            "Tag": 1428,
+            "ActionTag": -1313895633,
+            "Size": {
+              "X": 150.0,
+              "Y": 100.0
+            },
+            "VisibleForFrame": false,
+            "Name": "extra_operation_panel",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 194.4
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.27
+            },
+            "PreSize": {
+              "X": 0.5625,
+              "Y": 0.0833
+            },
+            "LeftMargin": 280.0,
+            "RightMargin": 280.0,
+            "TopMargin": 465.6,
+            "BottomMargin": 194.4,
+            "Tag": 91,
+            "ActionTag": -1528728686,
+            "Size": {
+              "X": 720.0,
+              "Y": 60.0
+            },
+            "Name": "operation_panel",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": -83.8237,
+              "Y": -72.4309
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": -0.0655,
+              "Y": -0.1006
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -83.8237,
+            "RightMargin": 1363.8237,
+            "TopMargin": 792.4309,
+            "BottomMargin": -72.4309,
+            "Tag": 204,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "GameRoomUI/op_bet_bg.png",
+                  "Plist": "GameRoomUI.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 106,
+                "Scale9Height": 32,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1.4514,
+                  "Y": -65.2522
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -66.5486,
+                "RightMargin": -69.4514,
+                "TopMargin": 38.2522,
+                "BottomMargin": -92.2522,
+                "Tag": 205,
+                "Children": [
+                  {
+                    "LabelText": "240",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "GameRoomUI/fensuzi.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 68.0,
+                      "Y": 27.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.4412,
+                      "Y": 0.5926
+                    },
+                    "LeftMargin": 38.0,
+                    "RightMargin": 38.0,
+                    "TopMargin": 11.0,
+                    "BottomMargin": 11.0,
+                    "Tag": 206,
+                    "ActionTag": -1674498049,
+                    "Size": {
+                      "X": 60.0,
+                      "Y": 32.0
+                    },
+                    "Name": "num_label",
+                    "ctype": "TextBMFontObjectData"
+                  }
+                ],
+                "ActionTag": -516762182,
+                "Size": {
+                  "X": 136.0,
+                  "Y": 54.0
+                },
+                "Name": "bet_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "GameRoomUI/score_lose_bg.png",
+                  "Plist": "GameRoomUI.plist"
+                },
+                "Scale9OriginX": 42,
+                "Scale9OriginY": 17,
+                "Scale9Width": 46,
+                "Scale9Height": 20,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -85.483,
+                  "Y": -166.2607
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -150.483,
+                "RightMargin": 20.483,
+                "TopMargin": 139.2607,
+                "BottomMargin": -193.2607,
+                "Tag": 209,
+                "Children": [
+                  {
+                    "LabelText": "999",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "GameRoomUI/shufenshuzi.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 65.0,
+                      "Y": 27.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.3231,
+                      "Y": 0.4444
+                    },
+                    "LeftMargin": 44.0,
+                    "RightMargin": 44.0,
+                    "TopMargin": 15.0,
+                    "BottomMargin": 15.0,
+                    "Tag": 210,
+                    "ActionTag": 321359703,
+                    "Size": {
+                      "X": 42.0,
+                      "Y": 24.0
+                    },
+                    "Name": "score_label",
+                    "ctype": "TextBMFontObjectData"
+                  }
+                ],
+                "ActionTag": -25862901,
+                "Size": {
+                  "X": 130.0,
+                  "Y": 54.0
+                },
+                "Name": "lose_anim_img",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "GameRoomUI/score_win_bg.png",
+                  "Plist": "GameRoomUI.plist"
+                },
+                "Scale9OriginX": 42,
+                "Scale9OriginY": 17,
+                "Scale9Width": 46,
+                "Scale9Height": 20,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -89.348,
+                  "Y": -232.9474
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -154.348,
+                "RightMargin": 24.348,
+                "TopMargin": 205.9474,
+                "BottomMargin": -259.9474,
+                "Tag": 207,
+                "Children": [
+                  {
+                    "LabelText": "999",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "GameRoomUI/yingfenshuzi.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 65.0,
+                      "Y": 27.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.3231,
+                      "Y": 0.4444
+                    },
+                    "LeftMargin": 44.0,
+                    "RightMargin": 44.0,
+                    "TopMargin": 15.0,
+                    "BottomMargin": 15.0,
+                    "Tag": 208,
+                    "ActionTag": -1400368181,
+                    "Size": {
+                      "X": 42.0,
+                      "Y": 24.0
+                    },
+                    "Name": "score_label",
+                    "ctype": "TextBMFontObjectData"
+                  }
+                ],
+                "ActionTag": -1039045487,
+                "Size": {
+                  "X": 130.0,
+                  "Y": 54.0
+                },
+                "Name": "win_anim_img",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 787066269,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "VisibleForFrame": false,
+            "Name": "clone_nodes",
+            "ctype": "SingleNodeObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "GameRoomUI.plist",
+        "GameRoomUI.png",
+        "GameRoomUI/daojishi.fnt",
+        "GameRoomUI/daojishi.png",
+        "GameRoomUI/fenshuban.fnt",
+        "GameRoomUI/fenshuban.png",
+        "GameRoomUI/fensuzi.fnt",
+        "GameRoomUI/fensuzi.png",
+        "GameRoomUI/jiafen.fnt",
+        "GameRoomUI/jiafen.png",
+        "GameRoomUI/lefttime_bg.png",
+        "GameRoomUI/shufenshuzi.fnt",
+        "GameRoomUI/shufenshuzi.png",
+        "GameRoomUI/yingfenshuzi.fnt",
+        "GameRoomUI/yingfenshuzi.png",
+        "PlayerInfoNode.json",
+        "PlayerTileNode.json",
+        "PlayerTileNode2.json"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

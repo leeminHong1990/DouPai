@@ -1,0 +1,74 @@
+<root>
+	<Volatile>
+		<position> 0 </position>
+		<yaw> 0 </yaw>
+		<pitch> 0 </pitch>
+		<roll> 0 </roll>
+	</Volatile>
+
+	<Interfaces>
+		<Interface>	GameObject		</Interface>
+	</Interfaces>
+
+	<Properties>
+		<roomId>
+			<Type>			UINT32			</Type>
+			<Flags>			BASE			</Flags>
+		</roomId>
+		<owner_uid>
+			<Type>			UINT32			</Type>
+			<Flags>			BASE			</Flags>
+		</owner_uid>
+		<game_round>
+			<Type>			UINT32			</Type>
+			<Flags>			BASE			</Flags>
+			<Default>		8				</Default>
+		</game_round>
+		<player_num>
+			<Type>			UINT8			</Type>
+			<Flags>			BASE			</Flags>
+			<Default>		6				</Default>
+		</player_num>
+		<pay_mode>
+			<Type>			UINT8			</Type>
+			<Flags>			BASE			</Flags>
+			<Default>		0				</Default>
+		</pay_mode>
+		<game_mode>
+			<Type>			UINT8			</Type>
+			<Flags>			BASE			</Flags>
+			<Default>		0				</Default>
+		</game_mode>
+		<round_max_lose>
+			<Type>			UINT32			</Type>
+			<Flags>			BASE			</Flags>
+			<Default>		0				</Default>
+		</round_max_lose>
+		<game_max_lose>
+			<Type>			UINT32			</Type>
+			<Flags>			BASE			</Flags>
+			<Default>		0				</Default>
+		</game_max_lose>
+		<hand_prepare>
+			<Type>			UINT8			</Type>
+			<Flags>			BASE			</Flags>
+			<Default>		1				</Default>
+		</hand_prepare>
+		<room_type>
+			<Type>			UINT8			</Type>
+			<Flags>			BASE			</Flags>
+			<Default>		0				</Default>
+		</room_type>
+	</Properties>
+
+
+	<BaseMethods>
+	</BaseMethods>
+
+	<CellMethods>
+	</CellMethods>
+
+	<ClientMethods>
+	</ClientMethods>
+</root>
+

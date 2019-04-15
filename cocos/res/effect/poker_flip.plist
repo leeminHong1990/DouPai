@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>poker_flip/1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{118,160}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{118,160}</string>
+			</dict>
+			<key>poker_flip/2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,163},{118,160}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{118,160}</string>
+			</dict>
+			<key>poker_flip/3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,325},{118,160}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{118,160}</string>
+			</dict>
+			<key>poker_flip/4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,487},{118,160}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{118,160}</string>
+			</dict>
+			<key>poker_flip/5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,649},{118,160}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{118,160}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>poker_flip.png</string>
+			<key>realTextureFileName</key>
+			<string>poker_flip.png</string>
+			<key>size</key>
+			<string>{128,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>128</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

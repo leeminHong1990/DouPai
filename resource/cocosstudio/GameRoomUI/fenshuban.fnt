@@ -1,0 +1,17 @@
+info face="Arial" size=29 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1 outline=0
+common lineHeight=28 base=23 scaleW=200 scaleH=150 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="fenshuban.png"
+chars count=13
+char id=48   x=109   y=0     width=30    height=42    xoffset=0     yoffset=0     xadvance=30    page=0  chnl=15
+char id=49   x=140   y=0     width=30    height=42    xoffset=0     yoffset=0     xadvance=30    page=0  chnl=15
+char id=50   x=0     y=43    width=30    height=42    xoffset=0     yoffset=0     xadvance=30    page=0  chnl=15
+char id=51   x=31    y=43    width=30    height=42    xoffset=0     yoffset=0     xadvance=30    page=0  chnl=15
+char id=52   x=62    y=43    width=30    height=42    xoffset=0     yoffset=0     xadvance=30    page=0  chnl=15
+char id=53   x=93    y=43    width=30    height=42    xoffset=0     yoffset=0     xadvance=30    page=0  chnl=15
+char id=54   x=124   y=43    width=30    height=42    xoffset=0     yoffset=0     xadvance=30    page=0  chnl=15
+char id=55   x=155   y=43    width=30    height=42    xoffset=0     yoffset=0     xadvance=30    page=0  chnl=15
+char id=56   x=0     y=86    width=30    height=42    xoffset=0     yoffset=0     xadvance=30    page=0  chnl=15
+char id=57   x=31    y=86    width=30    height=42    xoffset=0     yoffset=0     xadvance=30    page=0  chnl=15
+char id=74   x=39    y=0     width=34    height=42    xoffset=0     yoffset=0     xadvance=34    page=0  chnl=15
+char id=75   x=74    y=0     width=34    height=42    xoffset=0     yoffset=0     xadvance=34    page=0  chnl=15
+char id=81   x=0     y=0     width=38    height=42    xoffset=0     yoffset=0     xadvance=38    page=0  chnl=15

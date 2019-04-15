@@ -1,0 +1,13 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="poker_flip" Type="Plist" ID="0281b699-7725-4f7a-8499-0d2e47db5580" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="poker_flip/1.png" />
+      <FilePathData Path="poker_flip/2.png" />
+      <FilePathData Path="poker_flip/3.png" />
+      <FilePathData Path="poker_flip/4.png" />
+      <FilePathData Path="poker_flip/5.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

@@ -1,0 +1,42 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="GameRoomUI" Type="Plist" ID="ff8e9e7d-e3af-47c3-b0a7-da77898387b5" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="GameRoomUI/op_bet_bg.png" />
+      <FilePathData Path="GameRoomUI/op_mul_1.png" />
+      <FilePathData Path="GameRoomUI/op_mul_2.png" />
+      <FilePathData Path="GameRoomUI/op_mul_3.png" />
+      <FilePathData Path="GameRoomUI/op_mul_4.png" />
+      <FilePathData Path="GameRoomUI/op_mul_pass.png" />
+      <FilePathData Path="GameRoomUI/ox_0.png" />
+      <FilePathData Path="GameRoomUI/ox_1.png" />
+      <FilePathData Path="GameRoomUI/ox_10.png" />
+      <FilePathData Path="GameRoomUI/ox_2.png" />
+      <FilePathData Path="GameRoomUI/ox_3.png" />
+      <FilePathData Path="GameRoomUI/ox_4.png" />
+      <FilePathData Path="GameRoomUI/ox_5.png" />
+      <FilePathData Path="GameRoomUI/ox_6.png" />
+      <FilePathData Path="GameRoomUI/ox_7.png" />
+      <FilePathData Path="GameRoomUI/ox_8.png" />
+      <FilePathData Path="GameRoomUI/ox_9.png" />
+      <FilePathData Path="GameRoomUI/ox_confirm_btn.png" />
+      <FilePathData Path="GameRoomUI/ox_pass_btn.png" />
+      <FilePathData Path="GameRoomUI/ox_type_2.png" />
+      <FilePathData Path="GameRoomUI/ox_type_3.png" />
+      <FilePathData Path="GameRoomUI/ox_type_3_1.png" />
+      <FilePathData Path="GameRoomUI/ox_type_4.png" />
+      <FilePathData Path="GameRoomUI/computer_select_bg.png" />
+      <FilePathData Path="GameRoomUI/score_lose_bg.png" />
+      <FilePathData Path="GameRoomUI/score_win_bg.png" />
+      <FilePathData Path="GameRoomUI/score_mul_0.png" />
+      <FilePathData Path="GameRoomUI/score_mul_1.png" />
+      <FilePathData Path="GameRoomUI/score_mul_2.png" />
+      <FilePathData Path="GameRoomUI/score_mul_3.png" />
+      <FilePathData Path="GameRoomUI/score_mul_4.png" />
+      <FilePathData Path="GameRoomUI/coin.png" />
+      <FilePathData Path="GameRoomUI/ox_type_5.png" />
+      <FilePathData Path="GameRoomUI/ox_type_6.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>
